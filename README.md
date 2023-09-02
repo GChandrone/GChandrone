@@ -3,10 +3,6 @@
 - 🧑🏻‍💻 Estudante de Desenvolvimento de Sistemas na instituição de ensino Senai
 - 📊 Estagiário em Análise de Dados na empresa Krona Tubos e Conexões
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GChandrone&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GChandrone&layout=compact&theme=dark)
-
-
 #### Tecnologias 💻
 <div style="display: inline_block">
   <img align="center" alt="Gab-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
