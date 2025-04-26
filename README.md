@@ -1,7 +1,7 @@
 ### Olá! Eu sou Gabriel da Cunha ✋🏻
 
-- 🧑🏻‍💻 Estudante de Desenvolvimento de Sistemas na instituição de ensino Senai
-- 📊 Assistente em Análise de Dados na empresa Krona Tubos e Conexões
+- 🧑🏻‍💻 Estudante de Engenharia de Software na Católica SC
+- 📊 Analista de Sistemas Junior na empresa Krona Tubos e Conexões
 
 #### Tecnologias 💻
 <div style="display: inline_block">
