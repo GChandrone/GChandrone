@@ -5,9 +5,12 @@
 
 #### Tecnologias 💻
 <div style="display: inline_block">
-  <img align="center" alt="Gab-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />        
+  <img align="center" alt="Gab-Jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />        
   <img align="center" alt="Gab-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="Gab-Databricks" height="35" width="50" src="https://az-icons.com/export/icons/d180faa9ddc77cb9e841ff02998e5e21.svg" />
+  <img align="center" alt="Gab-Data Factory" height="35" width="50" src="https://az-icons.com/export/icons/679e395158754f2aa1194eb8a15ec8ec.svg" />
   <img align="center" alt="Gab-Qlik" height="70" width="70" src="https://www.svgrepo.com/show/354242/qlik.svg" />
+  <img align="center" alt="Gab-SQL" height="40" width="50" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
 </div>
 
 ##
